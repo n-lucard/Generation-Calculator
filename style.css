@@ -2,3 +2,17 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+table {
+  border: 5px solid green;
+}
+
+th {border: 2px solid red;
+  text-align: right;
+}
+td {
+  border: 2px solid red;
+  text-align: center;
+  padding: 1em;
+  font-style: bold;
+  }
